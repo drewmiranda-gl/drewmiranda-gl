@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @drewmiranda-gl
 - 👀 I’m interested in Data Aggregation, APIs, Log Management
 - 🌱 I’m currently learning a little of this, a little of that
-- 📫 How to reach me: geek4u `<at>` gmail `<dot>` com (or twitter: [@drewmmiranda](https://twitter.com/drewmmiranda))
+- 📫 How to reach me: geek4u `<at>` gmail `<dot>` com
 
 <!---
 drewmiranda-gl/drewmiranda-gl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
